@@ -3,7 +3,6 @@ import os
 import glob
 
 
-
 ############## Variables #############
 
 global Filtre_Entry
